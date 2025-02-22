@@ -26,6 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Usman-911&icon=10&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  ## 📫 Want to Help? Really 👀👀
+  | 📫 Want to Help? Really 👀👀
   If you'd like to help or collaborate, feel free to reach out to me through my social links or email me at usman03025@gmail.com. Thank you for your support!
   
