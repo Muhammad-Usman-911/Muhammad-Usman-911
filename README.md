@@ -40,13 +40,13 @@ I can build apps across web, desktop, and mobile—whether it's a React website,
 
 </div>
 
-<div style="flex: 1;">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx6Ym12bGc2dWNlemhrNHN2cG5nbWR5dXhkcG1yNnhpOXRobGxkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="300" alt="Coding GIF"/>
+<div style="flex: 1; display: flex; flex-direction: column; gap: 10px; align-items: center;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx6Ym12bGc2dWNlemhrNHN2cG5nbWR5dXhkcG1yNnhpOXRobGxkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="200" alt="Coding GIF"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lnYXVocDl1ZjJmMGZmejd6dnJoZ3kyczVmc3J6OXR3OWo4NTJpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl3jw1xFrpmxGUrWzS/giphy.gif" width="200" alt="Programming GIF"/>
 </div>
 
 </div>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lnYXVocDl1ZjJmMGZmejd6dnJoZ3kyczVmc3J6OXR3OWo4NTJpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl3jw1xFrpmxGUrWzS/giphy.gif" width="100px" height="100px" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usman_jump) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-usman-2b86232b1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usman03025@gmail.com) 
