@@ -41,12 +41,7 @@ I can build apps across web, desktop, and mobile—whether it's a React website,
 </div>
 
 <div style="flex: 1; display: flex; flex-direction: column; gap: 10px; align-items: center;">
-<<<<<<< HEAD
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx6Ym12bGc2dWNlemhrNHN2cG5nbWR5dXhkcG1yNnhpOXRobGxkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="200" alt="Coding GIF"/>
-=======
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx6Ym12bGc2dWNlemhrNHN2cG5nbWR5dXhkcG1yNnhpOXRobGxkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="200" height="200" alt="Coding GIF"/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lnYXVocDl1ZjJmMGZmejd6dnJoZ3kyczVmc3J6OXR3OWo4NTJpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl3jw1xFrpmxGUrWzS/giphy.gif" width="200"  height="200" alt="Programming GIF"/>
->>>>>>> 61d2c2ec899f9a79a38b3c949ee6001bc822f051
 </div>
 
 </div>
