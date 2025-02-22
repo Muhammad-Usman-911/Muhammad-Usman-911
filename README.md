@@ -1,5 +1,51 @@
+<div style="display: flex; align-items: start; gap: 20px;">
+<div style="flex: 2;">
+
 # 💫 About Me:
-🚀 About Me<br>🎓 I’m a Software Engineer passionate about building scalable and efficient applications across web, desktop, and mobile platforms. I love solving complex problems and continuously learning new technologies to expand my expertise.<br><br>🔭 Currently Working On:<br><br>Web Development with React, Vite, Angular, and Next.js<br>Desktop App Development using Electron<br>Full-Stack Applications with Nest.js, Firebase, and Node.js<br>👯 Looking to Collaborate On:<br><br>Exciting front-end & full-stack development projects<br>Open-source projects using JavaScript/TypeScript frameworks<br>Scalable desktop & web applications<br>🤝 Looking for Help With:<br><br>Advanced machine learning techniques<br>Large-scale application architecture and performance optimization<br>🌱 Currently Learning:<br><br>Backend Development with Nest.js<br>Web app optimization techniques<br>Game Development with Unity & Unreal Engine<br>💬 Ask Me About:<br><br>Frontend: React, Angular, Next.js<br>Backend: Node.js, Nest.js, Firebase<br>Desktop Apps: Electron, Java, C#<br>Web Scraping & Automation<br>Simple ML Models & AI Projects<br>Game Dev with Pygame, Unity (in progress!)<br>🎮 Future Goal:<br>I aspire to become a Game Developer while mastering full-stack and AI-driven applications!<br><br>⚡ Fun Fact:<br>I can build apps across web, desktop, and mobile—whether it’s a React website, an Electron desktop app, or a Java-XML Android application! 😎<br><br>
+🚀 About Me  
+🎓 I'm a Software Engineer passionate about building scalable and efficient applications across web, desktop, and mobile platforms. I love solving complex problems and continuously learning new technologies to expand my expertise.
+
+🔭 Currently Working On:
+- Web Development with React, Vite, Angular, and Next.js
+- Desktop App Development using Electron
+- Full-Stack Applications with Nest.js, Firebase, and Node.js
+
+👯 Looking to Collaborate On:
+- Exciting front-end & full-stack development projects
+- Open-source projects using JavaScript/TypeScript frameworks
+- Scalable desktop & web applications
+
+🤝 Looking for Help With:
+- Advanced machine learning techniques
+- Large-scale application architecture and performance optimization
+
+🌱 Currently Learning:
+- Backend Development with Nest.js
+- Web app optimization techniques
+- Game Development with Unity & Unreal Engine
+
+💬 Ask Me About:
+- Frontend: React, Angular, Next.js
+- Backend: Node.js, Nest.js, Firebase
+- Desktop Apps: Electron, Java, C#
+- Web Scraping & Automation
+- Simple ML Models & AI Projects
+- Game Dev with Pygame, Unity (in progress!)
+
+🎮 Future Goal:  
+I aspire to become a Game Developer while mastering full-stack and AI-driven applications!
+
+⚡ Fun Fact:  
+I can build apps across web, desktop, and mobile—whether it's a React website, an Electron desktop app, or a Java-XML Android application! 😎
+
+</div>
+
+<div style="flex: 1;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx6Ym12bGc2dWNlemhrNHN2cG5nbWR5dXhkcG1yNnhpOXRobGxkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="300" alt="Coding GIF"/>
+</div>
+
+</div>
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lnYXVocDl1ZjJmMGZmejd6dnJoZ3kyczVmc3J6OXR3OWo4NTJpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl3jw1xFrpmxGUrWzS/giphy.gif" width="100px" height="100px" />
 
 ## 🌐 Socials:
