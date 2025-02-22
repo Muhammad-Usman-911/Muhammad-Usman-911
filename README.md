@@ -41,7 +41,7 @@ I can build apps across web, desktop, and mobile—whether it's a React website,
 </div>
 
 <div style="flex: 1; justify-content:center; align-items: center;">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx6Ym12bGc2dWNlemhrNHN2cG5nbWR5dXhkcG1yNnhpOXRobGxkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="200" alt="Coding GIF"/>
+<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftwxlvixc93j8vmm4zp53.gif" width="200" alt="Coding GIF"/>
 </div>
 
 </div>
