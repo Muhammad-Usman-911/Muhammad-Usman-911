@@ -63,9 +63,6 @@ I can build apps across web, desktop, and mobile—whether it's a React website,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muhammad-Usman-911&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Usman-911&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
