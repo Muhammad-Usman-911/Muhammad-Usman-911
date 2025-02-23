@@ -2,7 +2,7 @@
   <div style="display: flex; align-items: center; gap: 20px;">
     <img src="image.png" alt="banner" style="flex: 1;">
     <div style="flex: 1; width:1000px; background:black;">
-      <img src="https://quotes-github-readme.vercel.app/api" width="1000px" alt="quote">
+      <img src="https://quotes-github-readme.vercel.app/api" width="100%" height="200px" alt="quote">
     </div>
   </div>
 </div>
