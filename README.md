@@ -1,3 +1,13 @@
+<div align="center">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <img src="image.png" alt="banner" style="flex: 1;">
+    <div style="flex: 1;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="quote">
+    </div>
+  </div>
+</div>
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 ![banner](image.png)
 
