@@ -1,8 +1,8 @@
 <div align="center">
   <div style="display: flex; align-items: center; gap: 20px;">
     <img src="image.png" alt="banner" style="flex: 1;">
-    <div style="flex: 1; width:1000px; background:black;">
-      <img src="https://quotes-github-readme.vercel.app/api/type=horizontal" width="100%" height="200px" alt="quote">
+    <div style="flex: 1;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="quote">
     </div>
   </div>
 </div>
