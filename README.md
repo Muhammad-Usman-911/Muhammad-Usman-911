@@ -22,11 +22,6 @@
 - Advanced machine learning techniques
 - Large-scale application architecture and performance optimization
 
-🌱 Currently Learning:
-- Backend Development with Nest.js
-- Web app optimization techniques
-- Game Development with Unity & Unreal Engine
-
 💬 Ask Me About:
 - Frontend: React, Angular, Next.js
 - Backend: Node.js, Nest.js, Firebase
