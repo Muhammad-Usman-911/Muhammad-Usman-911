@@ -283,8 +283,6 @@ Games are why I started coding. Pygame taught me the game loop, sprites and coll
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/3DDC84/Muhammad-Usman-911" alt="Contribution chart" width="95%" />
-
 </div>
 
 ---
