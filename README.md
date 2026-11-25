@@ -54,7 +54,7 @@ const usman = {
 
 <br/>
 
-**2+** years building · **69** repos<br/>
+**2+** years building · **82** repos<br/>
 **2.5k+** LinkedIn followers
 
 </td>
@@ -91,66 +91,134 @@ const usman = {
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+**Live now:**
+[![ApplyPilot](https://img.shields.io/badge/ApplyPilot-4D8DFF?style=flat-square)](https://autopilotweb.vercel.app/)
+[![ILMORA](https://img.shields.io/badge/ILMORA-FF5734?style=flat-square)](https://ilmora-fe.vercel.app/)
+[![Capturizy](https://img.shields.io/badge/Capturizy-FF6A3D?style=flat-square)](https://capturizy.vercel.app/)
+[![Git Compass](https://img.shields.io/badge/Git_Compass-22D3EE?style=flat-square)](https://gitcompass-seven.vercel.app/)
+[![SellMate](https://img.shields.io/badge/SellMate-A855F7?style=flat-square)](https://salemateweb.vercel.app/)
+[![Video Manager](https://img.shields.io/badge/Video_Manager-8B7BFF?style=flat-square)](https://videomanagerwebsite.vercel.app/)
+[![StampSheet](https://img.shields.io/badge/StampSheet-3DDC84?style=flat-square)](https://stampsheet.vercel.app)
+[![ocrXtrack](https://img.shields.io/badge/ocrXtrack-22D3EE?style=flat-square)](https://ocrxtrack.vercel.app/)
+
+</div>
+
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ApplyPilot – AI Job Application Bot · [Live ↗](https://autopilotweb.vercel.app/) · *private*
+Desktop bot that applies for jobs by email: import hundreds of recruiter emails and a **free AI** (Groq, Gemini, OpenRouter, Ollama) writes a personal email for each, sent through Gmail with your resume in **batches with pauses**, never twice.
+
+`Electron` `React` `TypeScript` `Nodemailer` `AI` `Vitest`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 ILMORA – AI Quiz & Learning SaaS · [Live ↗](https://ilmora-fe.vercel.app/) · *private*
+AI learning platform for Pakistani schools and students: textbook-grounded quizzes with **RAG over pgvector**, teacher approval, a guide bot and personal study subjects.
+
+`Angular` `NestJS` `Prisma` `PostgreSQL` `pgvector` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Capturizy – Repo to Launch Video · [Live ↗](https://capturizy.vercel.app/) · *private*
+Paste a GitHub repo or URL and it runs the app in a **Docker sandbox**, tours the screens and renders a **1080p60 launch video** with Remotion. (The videos on my portfolio are made with it.)
+
+`Next.js` `Remotion` `Playwright` `BullMQ` `Docker` `Stripe`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 [Git Compass](https://github.com/Muhammad-Usman-911/gitcompass) · [Live ↗](https://gitcompass-seven.vercel.app/)
+Learn Git, GitHub and CI/CD: searchable guides, an **in-browser git simulator** with an animated commit graph, challenges and a CI/CD lab.
+
+`React` `TypeScript` `Vite` `Tailwind` `Three.js` `Vitest`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ SellMate – Facebook Business Autopilot · [Live ↗](https://salemateweb.vercel.app/) · *private*
+SaaS desktop app for businesses selling on Facebook: product library, **Messenger auto-replies**, bulk Marketplace listings, licensing and installers for every OS.
+
+`Electron` `React` `Puppeteer` `SQLite` `Lemon Squeezy`
+
+</td>
+<td width="50%" valign="top">
+
+### 📹 Video Manager – NVR Footage Downloader · [Live ↗](https://videomanagerwebsite.vercel.app/) · [Releases](https://github.com/Muhammad-Usman-911/videomanager-releases/releases)
+Linux app that logs in to a Hikvision NVR, downloads every recording for the days and times you pick, and uploads them to **MEGA or Google Drive** from the system tray.
+
+`Desktop` `Linux` `Automation` `Google Drive` `MEGA` `Auto-update`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎞️ [StampSheet](https://github.com/Muhammad-Usman-911/StampSheet-ElectronApp-VideotoExcel) · [Live ↗](https://stampsheet.vercel.app)
 Desktop app that reads the clock burned into CCTV/NVR footage with **offline OCR** and writes start, end and duration for whole folders of video to Excel.
 
-`Electron` `TypeScript` `Tesseract.js` `FFmpeg` `ExcelJS` `Auto-update`
+`Electron` `TypeScript` `Tesseract.js` `FFmpeg` `ExcelJS`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 CogniSense – AI for SE (FYP) · *private*
-Describe a project, its stakeholders and team, and a **Random Forest** model recommends the best requirements elicitation technique. Includes in-app retraining with charts.
+### 🔎 ocrXtrack – Video & Photo to Excel · [Live ↗](https://ocrxtrack.vercel.app/) · *private*
+Web version of StampSheet: reads CCTV timestamps and text/tables from photos **right in the browser**, then exports Excel, Word or PDF.
 
-`React` `Node.js` `Python` `scikit-learn` `Firebase` `Chart.js`
+`Next.js` `WebCodecs` `OCR` `TypeScript`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🧠 CogniSense – AI for SE (FYP) · *private*
+A 5-step wizard captures a project, its stakeholders and team, and a **Random Forest** recommends the best requirements elicitation technique. Now a SaaS with Stripe plans.
+
+`React` `Node.js` `Python` `scikit-learn` `Firebase` `Stripe`
+
+</td>
 <td width="50%" valign="top">
 
 ### 💬 [NestJS Chat Backend](https://github.com/Muhammad-Usman-911/chatapp-backend)
 Real-time chat with email-OTP sign-up, JWT guards, one-to-one and group chat over **WebSockets**, and OpenAI replies.
 
-`NestJS` `Prisma` `PostgreSQL` `Socket.io` `JWT` `Swagger`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [FastAPI Task API](https://github.com/Muhammad-Usman-911/PythonFastAPI_BASIC)
-Task API with passwordless **email-OTP login**, JWT, SQLAlchemy + Alembic migrations on Supabase Postgres, and pagination.
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ [Vite + Electron + shadcn Starter](https://github.com/Muhammad-Usman-911/Vite-Electron-ShadCn-AutoUpdater)
-Modern desktop boilerplate with Vite, Electron, shadcn/ui and built-in **auto-updates**.
-
-`Electron` `Vite` `React` `shadcn/ui` `electron-updater`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔭 [KwanBall – Astronomy App](https://github.com/Muhammad-Usman-911/AstronomyAppAndroid)
-Android astronomy app with a neumorphic UI, **NASA APIs** (Picture of the Day and more) and Firebase auth.
-
-`Java` `Android` `Firebase` `NASA API`
+`NestJS` `Prisma` `PostgreSQL` `Socket.io` `JWT`
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>🎮 Games, mobile apps and more</b></summary>
+<br/>
+
+- 🚀 [**Skybreaker: Alien Siege**](https://github.com/Muhammad-Usman-911/skybreaker): 2D air-combat shooter, 5 missions with multi-phase bosses (Python, Pygame)
+- 🥊 **Ember Clash** *(private)*: 1v1 fighting game with 4 fighters, a story ladder and versus mode (Python, Pygame)
+- 🦘 **MRJumpY** *(private)*: 5-mission story platformer about jumping over everyday worries (Python, Pygame)
+- 🎓 **Grade Wizard** *(private)*: GPA & CGPA calculator on official HEC, PU, FAST and ARID grading tables (React Native, Expo)
+- 🐱 [**Cat Purgrammer**](https://github.com/Muhammad-Usman-911/myfirst_app): my first React Native app (Expo)
+- 🔭 **KwanBall** *(private)*: Android astronomy app with NASA APIs and Firebase (Java)
+- 🛒 **Acme Store** *(private)*: multi-brand store with Stripe Checkout (Angular, Express, Prisma)
+- ⚡ [**FastAPI Starter**](https://github.com/Muhammad-Usman-911/PythonFastAPI_BASIC): auth with email codes, JWT refresh, Docker and CI (FastAPI, PostgreSQL)
+- 🖥️ [**Vite + Electron + shadcn Starter**](https://github.com/Muhammad-Usman-911/Vite-Electron-ShadCn-AutoUpdater): desktop boilerplate with auto-updates
+
+</details>
+
 <div align="center">
 
-**+ 55 more repos**: sliders, scroll animations, C# desktop apps and more → [**see all repositories**](https://github.com/Muhammad-Usman-911?tab=repositories)
+🎬 *Every project on [**my portfolio**](https://portfolio-green-rho-70.vercel.app/) has a launch video: hover a card to watch it.*
+
+**+ 60 more repos**: sliders, scroll animations, C# desktop apps and more → [**see all repositories**](https://github.com/Muhammad-Usman-911?tab=repositories)
 
 </div>
 
