@@ -11,10 +11,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-3DDC84?style=for-the-badge&logoColor=black)](https://portfolio-green-rho-70.vercel.app/)
-<br/><br/>
-If not work use this
-<br/><br/>
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-3DDC84?style=for-the-badge&logoColor=black)](https://911muhammadusman.netlify.app/)
+[![Portfolio mirror](https://img.shields.io/badge/🌐_Portfolio-Mirror_%28Netlify%29-0F3D2A?style=for-the-badge&logoColor=white)](https://911muhammadusman.netlify.app/)
 [![Book a call](https://img.shields.io/badge/📅_Book_a_Call-Schedule-22D3EE?style=for-the-badge)](https://portfolio-green-rho-70.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-muhammad-usman-fullstackdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usman03025@gmail.com)
@@ -60,12 +57,7 @@ const usman = {
 
 **2+** years building · **82** repos<br/>
 **2.5k+** LinkedIn followers
-
-</td>
-</tr>
-</table>
-
----
+https://911muhammadusman.netlify.app/
 
 ## 💼 Experience
 
@@ -81,12 +73,7 @@ const usman = {
 <details>
 <summary><b>⚡ Highlights from BXTrack</b></summary>
 <br/>
-
-- Led back-end architecture & deployment for **MaxBud**, a real-time auction platform: **Server-Sent Events**, background jobs, cron and rule-based auto-bidding, shipped with **Docker on Vercel**
-- Built a real-time chat app with **Next.js + NestJS** over **WebSockets + WebRTC**
-- Built a multi-role report system for a **Saudi government client**, secured with SSE and secure cookies
-- Added **AI questionnaire generation** to a quiz backend, routing between 3 AI models by category and rules
-- Built a Jira/Trello-style Kanban board, **Electron + Puppeteer** automation bots and a POS app
+https://911muhammadusman.netlify.app/ a POS app
 - Improved performance with **Redis** and **TanStack Query**, and added **MFA** across projects
 
 </details>
@@ -98,6 +85,7 @@ const usman = {
 <div align="center">
 
 **Live now:**
+[![Interview Ladder](https://img.shields.io/badge/Interview_Ladder-C6F432?style=flat-square)](https://interviewladder.netlify.app/)
 [![ApplyPilot](https://img.shields.io/badge/ApplyPilot-4D8DFF?style=flat-square)](https://autopilotweb.vercel.app/)
 [![ILMORA](https://img.shields.io/badge/ILMORA-FF5734?style=flat-square)](https://ilmora-fe.vercel.app/)
 [![Capturizy](https://img.shields.io/badge/Capturizy-FF6A3D?style=flat-square)](https://capturizy.vercel.app/)
@@ -106,7 +94,6 @@ const usman = {
 [![Video Manager](https://img.shields.io/badge/Video_Manager-8B7BFF?style=flat-square)](https://videomanagerwebsite.vercel.app/)
 [![StampSheet](https://img.shields.io/badge/StampSheet-3DDC84?style=flat-square)](https://stampsheet.vercel.app)
 [![ocrXtrack](https://img.shields.io/badge/ocrXtrack-22D3EE?style=flat-square)](https://ocrxtrack.vercel.app/)
-https://interviewladder.netlify.app/
 </div>
 
 <table>
@@ -149,12 +136,22 @@ Learn Git, GitHub and CI/CD: searchable guides, an **in-browser git simulator** 
 <tr>
 <td width="50%" valign="top">
 
+### 🪜 [Interview Ladder](https://github.com/Muhammad-Usman-911/Interview-Ladder) · [Live ↗](https://interviewladder.netlify.app/) · *open source*
+Free interview prep by **stack and level** (junior / mid / senior): **284 questions** across **20 stacks**, from React, Java and NestJS to system design, cloud, Unity and behavioral, each with **88 animated diagrams** that run the real code. Mock interviews, no sign-up.
+
+`React` `TypeScript` `Vite` `Tailwind` `Motion` `Vitest` `Netlify`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛍️ SellMate – Facebook Business Autopilot · [Live ↗](https://salemateweb.vercel.app/) · *private*
 SaaS desktop app for businesses selling on Facebook: product library, **Messenger auto-replies**, bulk Marketplace listings, licensing and installers for every OS.
 
 `Electron` `React` `Puppeteer` `SQLite` `Lemon Squeezy`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📹 Video Manager – NVR Footage Downloader · [Live ↗](https://videomanagerwebsite.vercel.app/) · [Releases](https://github.com/Muhammad-Usman-911/videomanager-releases/releases)
@@ -163,8 +160,6 @@ Linux app that logs in to a Hikvision NVR, downloads every recording for the day
 `Desktop` `Linux` `Automation` `Google Drive` `MEGA` `Auto-update`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎞️ [StampSheet](https://github.com/Muhammad-Usman-911/StampSheet-ElectronApp-VideotoExcel) · [Live ↗](https://stampsheet.vercel.app)
@@ -173,6 +168,8 @@ Desktop app that reads the clock burned into CCTV/NVR footage with **offline OCR
 `Electron` `TypeScript` `Tesseract.js` `FFmpeg` `ExcelJS`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔎 ocrXtrack – Video & Photo to Excel · [Live ↗](https://ocrxtrack.vercel.app/) · *private*
@@ -181,22 +178,12 @@ Web version of StampSheet: reads CCTV timestamps and text/tables from photos **r
 `Next.js` `WebCodecs` `OCR` `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 CogniSense – AI for SE (FYP) · *private*
 A 5-step wizard captures a project, its stakeholders and team, and a **Random Forest** recommends the best requirements elicitation technique. Now a SaaS with Stripe plans.
 
 `React` `Node.js` `Python` `scikit-learn` `Firebase` `Stripe`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 [NestJS Chat Backend](https://github.com/Muhammad-Usman-911/chatapp-backend)
-Real-time chat with email-OTP sign-up, JWT guards, one-to-one and group chat over **WebSockets**, and OpenAI replies.
-
-`NestJS` `Prisma` `PostgreSQL` `Socket.io` `JWT`
 
 </td>
 </tr>
@@ -213,6 +200,7 @@ Real-time chat with email-OTP sign-up, JWT guards, one-to-one and group chat ove
 - 🐱 [**Cat Purgrammer**](https://github.com/Muhammad-Usman-911/myfirst_app): my first React Native app (Expo)
 - 🔭 **KwanBall** *(private)*: Android astronomy app with NASA APIs and Firebase (Java)
 - 🛒 **Acme Store** *(private)*: multi-brand store with Stripe Checkout (Angular, Express, Prisma)
+- 💬 [**NestJS Chat Backend**](https://github.com/Muhammad-Usman-911/chatapp-backend): real-time chat with email-OTP sign-up, JWT guards, group chat over WebSockets and OpenAI replies (NestJS, Prisma, Socket.io)
 - ⚡ [**FastAPI Starter**](https://github.com/Muhammad-Usman-911/PythonFastAPI_BASIC): auth with email codes, JWT refresh, Docker and CI (FastAPI, PostgreSQL)
 - 🖥️ [**Vite + Electron + shadcn Starter**](https://github.com/Muhammad-Usman-911/Vite-Electron-ShadCn-AutoUpdater): desktop boilerplate with auto-updates
 
