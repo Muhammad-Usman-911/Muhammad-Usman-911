@@ -10,15 +10,18 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-3DDC84?style=for-the-badge&logoColor=black)](https://portfolio-green-rho-70.vercel.app/)
-[![Portfolio mirror](https://img.shields.io/badge/🌐_Portfolio-Mirror_%28Netlify%29-0F3D2A?style=for-the-badge&logoColor=white)](https://911muhammadusman.netlify.app/)
-[![Book a call](https://img.shields.io/badge/📅_Book_a_Call-Schedule-22D3EE?style=for-the-badge)](https://portfolio-green-rho-70.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-muhammad-usman-fullstackdev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usman03025@gmail.com)
-[![Uiverse](https://img.shields.io/badge/Uiverse-MrJumpY-6D28D9?style=for-the-badge)](https://uiverse.io/profile/Muhammad-Usman-911)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usman_jump)
+<a href="https://portfolio-green-rho-70.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-3DDC84?style=for-the-badge&logoColor=black" height="30" alt="Portfolio"></a>
+<a href="https://911muhammadusman.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Mirror-0F3D2A?style=for-the-badge" height="30" alt="Portfolio mirror on Netlify"></a>
+<a href="https://portfolio-green-rho-70.vercel.app/"><img src="https://img.shields.io/badge/📅_Book_a_Call-Schedule-22D3EE?style=for-the-badge" height="30" alt="Book a call"></a>
 
 <br/>
+
+<a href="https://www.linkedin.com/in/its-muhammad-usman-fullstackdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn"></a>
+<a href="mailto:usman03025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Email"></a>
+<a href="https://uiverse.io/profile/Muhammad-Usman-911"><img src="https://img.shields.io/badge/Uiverse-MrJumpY-6D28D9?style=for-the-badge" height="26" alt="Uiverse"></a>
+<a href="https://instagram.com/usman_jump"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26" alt="Instagram"></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Muhammad-Usman-911&label=Profile+Views&color=3ddc84&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Muhammad-Usman-911?label=Followers&style=for-the-badge&logo=github&color=0f3d2a" alt="Followers" />
@@ -57,7 +60,12 @@ const usman = {
 
 **2+** years building · **82** repos<br/>
 **2.5k+** LinkedIn followers
-https://911muhammadusman.netlify.app/
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💼 Experience
 
@@ -84,106 +92,169 @@ https://911muhammadusman.netlify.app/ a POS app
 
 <div align="center">
 
-**Live now:**
-[![Interview Ladder](https://img.shields.io/badge/Interview_Ladder-C6F432?style=flat-square)](https://interviewladder.netlify.app/)
-[![ApplyPilot](https://img.shields.io/badge/ApplyPilot-4D8DFF?style=flat-square)](https://autopilotweb.vercel.app/)
-[![ILMORA](https://img.shields.io/badge/ILMORA-FF5734?style=flat-square)](https://ilmora-fe.vercel.app/)
-[![Capturizy](https://img.shields.io/badge/Capturizy-FF6A3D?style=flat-square)](https://capturizy.vercel.app/)
-[![Git Compass](https://img.shields.io/badge/Git_Compass-22D3EE?style=flat-square)](https://gitcompass-seven.vercel.app/)
-[![SellMate](https://img.shields.io/badge/SellMate-A855F7?style=flat-square)](https://salemateweb.vercel.app/)
-[![Video Manager](https://img.shields.io/badge/Video_Manager-8B7BFF?style=flat-square)](https://videomanagerwebsite.vercel.app/)
-[![StampSheet](https://img.shields.io/badge/StampSheet-3DDC84?style=flat-square)](https://stampsheet.vercel.app)
-[![ocrXtrack](https://img.shields.io/badge/ocrXtrack-22D3EE?style=flat-square)](https://ocrxtrack.vercel.app/)
+<b>Live now</b>&nbsp;&nbsp;
+<a href="https://interviewladder.netlify.app/"><img src="https://img.shields.io/badge/Interview_Ladder-C6F432?style=flat-square" alt="Interview Ladder"></a>
+<a href="https://gitcompass-seven.vercel.app/"><img src="https://img.shields.io/badge/Git_Compass-22D3EE?style=flat-square" alt="Git Compass"></a>
+<a href="https://autopilotweb.vercel.app/"><img src="https://img.shields.io/badge/ApplyPilot-4D8DFF?style=flat-square" alt="ApplyPilot"></a>
+<a href="https://ilmora-fe.vercel.app/"><img src="https://img.shields.io/badge/ILMORA-FF5734?style=flat-square" alt="ILMORA"></a>
+<a href="https://capturizy.vercel.app/"><img src="https://img.shields.io/badge/Capturizy-FF6A3D?style=flat-square" alt="Capturizy"></a>
+<a href="https://salemateweb.vercel.app/"><img src="https://img.shields.io/badge/SellMate-A855F7?style=flat-square" alt="SellMate"></a>
+<a href="https://videomanagerwebsite.vercel.app/"><img src="https://img.shields.io/badge/Video_Manager-8B7BFF?style=flat-square" alt="Video Manager"></a>
+<a href="https://stampsheet.vercel.app"><img src="https://img.shields.io/badge/StampSheet-3DDC84?style=flat-square" alt="StampSheet"></a>
+<a href="https://ocrxtrack.vercel.app/"><img src="https://img.shields.io/badge/ocrXtrack-22D3EE?style=flat-square" alt="ocrXtrack"></a>
+
 </div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 ApplyPilot – AI Job Application Bot · [Live ↗](https://autopilotweb.vercel.app/) · *private*
-Desktop bot that applies for jobs by email: import hundreds of recruiter emails and a **free AI** (Groq, Gemini, OpenRouter, Ollama) writes a personal email for each, sent through Gmail with your resume in **batches with pauses**, never twice.
+<a href="https://interviewladder.netlify.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/interviewladder-1.webp" width="100%" alt="Interview Ladder screenshot"></a>
 
-`Electron` `React` `TypeScript` `Nodemailer` `AI` `Vitest`
+<h3>🪜 Interview Ladder</h3>
+<sub><b>OPEN SOURCE · EDTECH</b></sub>
 
-</td>
-<td width="50%" valign="top">
+<p>Free interview prep by <b>stack and level</b>: 284 questions across 20 stacks, each with an <b>animated diagram</b> that runs the real code. Mock interviews, no sign-up.</p>
 
-### 📚 ILMORA – AI Quiz & Learning SaaS · [Live ↗](https://ilmora-fe.vercel.app/) · *private*
-AI learning platform for Pakistani schools and students: textbook-grounded quizzes with **RAG over pgvector**, teacher approval, a guide bot and personal study subjects.
+<p><a href="https://interviewladder.netlify.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <a href="https://github.com/Muhammad-Usman-911/Interview-Ladder"><img src="https://img.shields.io/badge/Code-30363D?style=flat-square" height="20" alt="Code"></a></p>
 
-`Angular` `NestJS` `Prisma` `PostgreSQL` `pgvector` `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Capturizy – Repo to Launch Video · [Live ↗](https://capturizy.vercel.app/) · *private*
-Paste a GitHub repo or URL and it runs the app in a **Docker sandbox**, tours the screens and renders a **1080p60 launch video** with Remotion. (The videos on my portfolio are made with it.)
-
-`Next.js` `Remotion` `Playwright` `BullMQ` `Docker` `Stripe`
+<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code> <code>Motion</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 [Git Compass](https://github.com/Muhammad-Usman-911/gitcompass) · [Live ↗](https://gitcompass-seven.vercel.app/)
-Learn Git, GitHub and CI/CD: searchable guides, an **in-browser git simulator** with an animated commit graph, challenges and a CI/CD lab.
+<a href="https://gitcompass-seven.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/gitcompass-1.webp" width="100%" alt="Git Compass screenshot"></a>
 
-`React` `TypeScript` `Vite` `Tailwind` `Three.js` `Vitest`
+<h3>🧭 Git Compass</h3>
+<sub><b>WEB APP · EDTECH</b></sub>
+
+<p>Learn Git, GitHub and CI/CD with an <b>in-browser git simulator</b> and an animated commit graph: 61 guides, challenges and a CI/CD lab.</p>
+
+<p><a href="https://gitcompass-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <a href="https://github.com/Muhammad-Usman-911/gitcompass"><img src="https://img.shields.io/badge/Code-30363D?style=flat-square" height="20" alt="Code"></a></p>
+
+<p><code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Vitest</code></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🪜 [Interview Ladder](https://github.com/Muhammad-Usman-911/Interview-Ladder) · [Live ↗](https://interviewladder.netlify.app/) · *open source*
-Free interview prep by **stack and level** (junior / mid / senior): **284 questions** across **20 stacks**, from React, Java and NestJS to system design, cloud, Unity and behavioral, each with **88 animated diagrams** that run the real code. Mock interviews, no sign-up.
+<a href="https://autopilotweb.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/applypilot-1.webp" width="100%" alt="ApplyPilot screenshot"></a>
 
-`React` `TypeScript` `Vite` `Tailwind` `Motion` `Vitest` `Netlify`
+<h3>🤖 ApplyPilot</h3>
+<sub><b>DESKTOP APP · AI</b></sub>
 
-</td>
-<td width="50%" valign="top">
+<p>Applies for jobs by email: a <b>free AI</b> writes a personal email for every recruiter, and Gmail sends them <b>in batches with pauses</b>, never twice.</p>
 
-### 🛍️ SellMate – Facebook Business Autopilot · [Live ↗](https://salemateweb.vercel.app/) · *private*
-SaaS desktop app for businesses selling on Facebook: product library, **Messenger auto-replies**, bulk Marketplace listings, licensing and installers for every OS.
+<p><a href="https://autopilotweb.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <img src="https://img.shields.io/badge/private-21262D?style=flat-square" height="20" alt="private"></p>
 
-`Electron` `React` `Puppeteer` `SQLite` `Lemon Squeezy`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📹 Video Manager – NVR Footage Downloader · [Live ↗](https://videomanagerwebsite.vercel.app/) · [Releases](https://github.com/Muhammad-Usman-911/videomanager-releases/releases)
-Linux app that logs in to a Hikvision NVR, downloads every recording for the days and times you pick, and uploads them to **MEGA or Google Drive** from the system tray.
-
-`Desktop` `Linux` `Automation` `Google Drive` `MEGA` `Auto-update`
+<p><code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Nodemailer</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎞️ [StampSheet](https://github.com/Muhammad-Usman-911/StampSheet-ElectronApp-VideotoExcel) · [Live ↗](https://stampsheet.vercel.app)
-Desktop app that reads the clock burned into CCTV/NVR footage with **offline OCR** and writes start, end and duration for whole folders of video to Excel.
+<a href="https://ilmora-fe.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/ilmora-1.webp" width="100%" alt="ILMORA screenshot"></a>
 
-`Electron` `TypeScript` `Tesseract.js` `FFmpeg` `ExcelJS`
+<h3>📚 ILMORA</h3>
+<sub><b>SAAS · AI</b></sub>
+
+<p>AI quiz and learning platform for Pakistani schools: textbook-grounded questions with <b>RAG over pgvector</b>, teacher approval and a 3D guide bot.</p>
+
+<p><a href="https://ilmora-fe.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <img src="https://img.shields.io/badge/private-21262D?style=flat-square" height="20" alt="private"></p>
+
+<p><code>Angular</code> <code>NestJS</code> <code>Prisma</code> <code>pgvector</code></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 ocrXtrack – Video & Photo to Excel · [Live ↗](https://ocrxtrack.vercel.app/) · *private*
-Web version of StampSheet: reads CCTV timestamps and text/tables from photos **right in the browser**, then exports Excel, Word or PDF.
+<a href="https://capturizy.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/capturizy-1.webp" width="100%" alt="Capturizy screenshot"></a>
 
-`Next.js` `WebCodecs` `OCR` `TypeScript`
+<h3>🎬 Capturizy</h3>
+<sub><b>SAAS · VIDEO</b></sub>
+
+<p>Paste a repo or URL: it runs the app in a <b>Docker sandbox</b>, tours the screens and renders a <b>1080p60 launch video</b> with Remotion.</p>
+
+<p><a href="https://capturizy.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <img src="https://img.shields.io/badge/private-21262D?style=flat-square" height="20" alt="private"></p>
+
+<p><code>Next.js</code> <code>Remotion</code> <code>Playwright</code> <code>BullMQ</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 CogniSense – AI for SE (FYP) · *private*
-A 5-step wizard captures a project, its stakeholders and team, and a **Random Forest** recommends the best requirements elicitation technique. Now a SaaS with Stripe plans.
+<a href="https://salemateweb.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/sellmate-1.webp" width="100%" alt="SellMate screenshot"></a>
 
-`React` `Node.js` `Python` `scikit-learn` `Firebase` `Stripe`
+<h3>🛍️ SellMate</h3>
+<sub><b>SAAS · DESKTOP</b></sub>
+
+<p>Autopilot for businesses selling on Facebook: product library, <b>Messenger auto-replies</b> and bulk Marketplace listings, with licensing and installers.</p>
+
+<p><a href="https://salemateweb.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <img src="https://img.shields.io/badge/private-21262D?style=flat-square" height="20" alt="private"></p>
+
+<p><code>Electron</code> <code>React</code> <code>Puppeteer</code> <code>SQLite</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://videomanagerwebsite.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/videomanager-1.webp" width="100%" alt="Video Manager screenshot"></a>
+
+<h3>📹 Video Manager</h3>
+<sub><b>DESKTOP APP · LINUX</b></sub>
+
+<p>Tray app that downloads <b>Hikvision NVR</b> recordings for the days and times you pick and uploads them to <b>MEGA or Google Drive</b>.</p>
+
+<p><a href="https://videomanagerwebsite.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <a href="https://github.com/Muhammad-Usman-911/videomanager-releases/releases"><img src="https://img.shields.io/badge/Releases-8B7BFF?style=flat-square" height="20" alt="Releases"></a></p>
+
+<p><code>Desktop</code> <code>Automation</code> <code>Auto-update</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://ocrxtrack.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/ocrxtrack-1.webp" width="100%" alt="ocrXtrack screenshot"></a>
+
+<h3>🔎 ocrXtrack</h3>
+<sub><b>WEB APP · OCR</b></sub>
+
+<p>Reads CCTV timestamps and tables from photos <b>right in the browser</b>, nothing uploaded, then exports Excel, Word or PDF.</p>
+
+<p><a href="https://ocrxtrack.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <img src="https://img.shields.io/badge/private-21262D?style=flat-square" height="20" alt="private"></p>
+
+<p><code>Next.js</code> <code>WebCodecs</code> <code>OCR</code> <code>TypeScript</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://portfolio-green-rho-70.vercel.app/projects/cognisense-1.webp" width="100%" alt="CogniSense screenshot">
+
+<h3>🧠 CogniSense</h3>
+<sub><b>FINAL YEAR PROJECT · ML</b></sub>
+
+<p>A 5-step wizard and a <b>Random Forest</b> model recommend the best requirements-elicitation technique. Now a SaaS with Stripe plans.</p>
+
+<p><img src="https://img.shields.io/badge/private-21262D?style=flat-square" height="20" alt="private"></p>
+
+<p><code>React</code> <code>Node.js</code> <code>scikit-learn</code> <code>Firebase</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://portfolio-green-rho-70.vercel.app/projects/skybreaker-1.webp" width="100%" alt="Skybreaker: Alien Siege screenshot">
+
+<h3>🚀 Skybreaker: Alien Siege</h3>
+<sub><b>GAME · PYGAME</b></sub>
+
+<p>2D air-combat shooter with 5 missions and <b>multi-phase bosses</b>, all art drawn in code, with save files and tests.</p>
+
+<p><a href="https://github.com/Muhammad-Usman-911/skybreaker"><img src="https://img.shields.io/badge/Code-30363D?style=flat-square" height="20" alt="Code"></a></p>
+
+<p><code>Python</code> <code>pygame-ce</code> <code>Game AI</code></p>
 
 </td>
 </tr>
@@ -193,7 +264,7 @@ A 5-step wizard captures a project, its stakeholders and team, and a **Random Fo
 <summary><b>🎮 Games, mobile apps and more</b></summary>
 <br/>
 
-- 🚀 [**Skybreaker: Alien Siege**](https://github.com/Muhammad-Usman-911/skybreaker): 2D air-combat shooter, 5 missions with multi-phase bosses (Python, Pygame)
+- 🎞️ [**StampSheet**](https://github.com/Muhammad-Usman-911/StampSheet-ElectronApp-VideotoExcel) · [live](https://stampsheet.vercel.app): desktop app that reads the clock in CCTV footage with offline OCR and writes the times to Excel (Electron, Tesseract.js, FFmpeg)
 - 🥊 **Ember Clash** *(private)*: 1v1 fighting game with 4 fighters, a story ladder and versus mode (Python, Pygame)
 - 🦘 **MRJumpY** *(private)*: 5-mission story platformer about jumping over everyday worries (Python, Pygame)
 - 🎓 **Grade Wizard** *(private)*: GPA & CGPA calculator on official HEC, PU, FAST and ARID grading tables (React Native, Expo)
