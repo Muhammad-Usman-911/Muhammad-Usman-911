@@ -111,12 +111,12 @@ https://911muhammadusman.netlify.app/ a POS app
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://interviewladder.netlify.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/interviewladder-1.webp" width="100%" alt="Interview Ladder screenshot"></a>
+<a href="https://interviewladder.netlify.app/"><img src="assets/interviewladder.webp" width="100%" alt="Interview Ladder screenshot"></a>
 
 <h3>🪜 Interview Ladder</h3>
 <sub><b>OPEN SOURCE · EDTECH</b></sub>
 
-<p>Free interview prep by <b>stack and level</b>: 284 questions across 20 stacks, each with an <b>animated diagram</b> that runs the real code. Mock interviews, no sign-up.</p>
+<p>Free interview prep by <b>stack and level</b>: 295 questions across 21 stacks (now with the 7 OSI layers), each with an <b>animated diagram</b> that runs the real code. Mock interviews, no sign-up.</p>
 
 <p><a href="https://interviewladder.netlify.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <a href="https://github.com/Muhammad-Usman-911/Interview-Ladder"><img src="https://img.shields.io/badge/Code-30363D?style=flat-square" height="20" alt="Code"></a></p>
 
@@ -125,12 +125,12 @@ https://911muhammadusman.netlify.app/ a POS app
 </td>
 <td width="50%" valign="top">
 
-<a href="https://gitcompass-seven.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/gitcompass-1.webp" width="100%" alt="Git Compass screenshot"></a>
+<a href="https://gitcompass-seven.vercel.app/"><img src="assets/gitcompass.webp" width="100%" alt="Git Compass screenshot"></a>
 
 <h3>🧭 Git Compass</h3>
 <sub><b>WEB APP · EDTECH</b></sub>
 
-<p>Learn Git, GitHub and CI/CD with an <b>in-browser git simulator</b> and an animated commit graph: 61 guides, challenges and a CI/CD lab.</p>
+<p>Learn Git, GitHub and CI/CD with an <b>in-browser git simulator</b> and an animated commit graph: 61 guides, challenges and a CI/CD lab, in a frosted-glass UI.</p>
 
 <p><a href="https://gitcompass-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <a href="https://github.com/Muhammad-Usman-911/gitcompass"><img src="https://img.shields.io/badge/Code-30363D?style=flat-square" height="20" alt="Code"></a></p>
 
