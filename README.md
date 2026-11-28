@@ -185,12 +185,12 @@ https://911muhammadusman.netlify.app/ a POS app
 </td>
 <td width="50%" valign="top">
 
-<a href="https://salemateweb.vercel.app/"><img src="https://portfolio-green-rho-70.vercel.app/projects/sellmate-1.webp" width="100%" alt="SellMate screenshot"></a>
+<a href="https://salemateweb.vercel.app/"><img src="assets/sellmate.webp" width="100%" alt="SellMate screenshot"></a>
 
 <h3>🛍️ SellMate</h3>
 <sub><b>SAAS · DESKTOP</b></sub>
 
-<p>Autopilot for businesses selling on Facebook: product library, <b>Messenger auto-replies</b> and bulk Marketplace listings, with licensing and installers.</p>
+<p>Autopilot for businesses selling on Facebook: product library, <b>Messenger auto-replies</b> and bulk Marketplace listings, with licensing and installers, in a frosted-glass UI.</p>
 
 <p><a href="https://salemateweb.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-3DDC84?style=flat-square" height="20" alt="Live"></a> <img src="https://img.shields.io/badge/private-21262D?style=flat-square" height="20" alt="private"></p>
 
